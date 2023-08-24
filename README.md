@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-    <a href="www.linkedin.com/in/sebastián-sanhueza-431991248">
+    <a href="https://www.linkedin.com/in/sebasti%C3%A1n-sanhueza-431991248/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:ssanhuezaoyarce@gmail.com">
