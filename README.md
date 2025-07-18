@@ -14,7 +14,7 @@
     </a>
 </p>
 
-<p align="center" width="150px"> I am an undergraduate student in Civil Electrical Engineering and an aspiring Master's student in Data Science at the University of Chile, hoping to graduate in 2025🙏. </p>
+<p align="center" width="150px"> I am an undergraduate student in Civil Electrical Engineering at the University of Chile, hoping to graduate in 2025🙏. </p>
 
 ##  <img src="luffy.jpg" width="45px"> About me 
 
@@ -24,7 +24,6 @@
 
 - 🔭 My main interests are Machine Learning, Deep Learning and Data Science.
 - 🌱 I am currently expanding my knowledge in Deep Learning by studying Deep Generative Modelling.
-- 👯 I seek to apply my knowledge in the areas of astronomy and health.
 - 😄 Pronouns: 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.
 - ⚡ Fun fact: I play the drums, I love cats and my favourite manga is One Piece.
 
