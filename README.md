@@ -40,9 +40,6 @@
 
 <br>
 
-## <img src="programming.jpeg" width ="55px"> Skills
-<br>
-
 ## 🛠️ Skills & Toolbox
 
 ### 💻 Languages & Databases
