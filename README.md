@@ -19,14 +19,14 @@
 </p>
 
 <p align="center">
-    🎓 Electrical Civil Engineer from the University of Chile. 
+    🎓 Electrical Engineer from the University of Chile. 
     <br>
     Passionate about extracting insights from data and building scalable Machine Learning solutions to solve complex real-world problems.
 </p>
 
 ---
 
-## <img src="luffy.jpg" width="35px" style="border-radius: 50%"> About Me
+## <img src="luffy.jpg" width="45px" style="border-radius: 50%"> About Me
 
 <picture> 
     <img align="right" src="gif.gif" width="350px" style="margin-left: 15px;">
